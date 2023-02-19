@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Product Catalog ###
+/resources/**/*.properties
+/resources/**/*.sql
