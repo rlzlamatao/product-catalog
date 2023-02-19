@@ -34,4 +34,4 @@ build/
 
 ### Product Catalog ###
 /src/main/resources/**/*.properties
-/src/main//resources/**/*.sql
+/src/main/resources/**/*.sql
