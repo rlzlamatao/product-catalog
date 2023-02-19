@@ -33,5 +33,5 @@ build/
 .vscode/
 
 ### Product Catalog ###
-/resources/**/*.properties
-/resources/**/*.sql
+/src/main/resources/**/*.properties
+/src/main//resources/**/*.sql
